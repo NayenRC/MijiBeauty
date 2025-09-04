@@ -1,0 +1,10 @@
+.barra-de-busqueda{ 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.aux-nav-alan {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
