@@ -1,0 +1,76 @@
+
+.navbar {
+  background-color: #ce95b1; /* Rosado pastel */
+}
+
+.logo-left {
+height: 90px;
+border-radius: 50%;
+
+}
+
+.logo-fixed {
+position: absolute;
+top: 10px;
+right: 20px;
+height: 40px;
+}
+
+
+.navbar-brand {
+font-weight: bold;
+font-size: 1.5rem;
+  color: #cc3366 !important; /* Rosa fuerte */
+}
+
+.nav-link {
+color: #66334d !important; /* Vino suave */
+font-weight: 500;
+transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+color: #cc3366 !important;
+}
+
+.dropdown-menu {
+border-radius: 1rem;
+background-color: #fff0f5; /* Lila pastel */
+}
+
+.dropdown-item:hover {
+background-color: #ffe6f2;
+color: #cc3366;
+}
+
+/* Botón Mi Cuenta */
+.btn-account {
+border-radius: 20px;
+background-color: #cc3366;
+color: white;
+border: none;
+padding: 6px 16px;
+transition: 0.3s;
+text-decoration: none;
+}
+
+.btn-account:hover {
+background-color: #b02a57;
+color: #fff;
+}
+
+/* Botón Buscar */
+.btn-outline-success {
+border-radius: 20px;
+border-color: #cc3366;
+color: #cc3366;
+}
+
+.btn-outline-success:hover {
+background-color: #cc3366;
+color: #fff;
+}
+
+input.form-control {
+border-radius: 20px;
+}
